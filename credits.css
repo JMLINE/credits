@@ -1,8 +1,12 @@
 body {
   background-color: black;
   color: white;
+  overflow: hidden;
 }
-
+.title {
+  text-align: center;
+  font-size: 7vh;
+}
 .credits {
   text-align: center;
   font-size: 5vh;
